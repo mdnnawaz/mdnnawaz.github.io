@@ -1,8 +1,8 @@
 # Site settings
-title: "Typewriter"
-description: "So I was feeling nostalgic."
+title: "Mohammed Nawaz"
+description: "This is my blog"
 baseurl: ""
-url: "http://alixedi.github.io"
+url: "http://mdnnawaz.github.io"
 
 # Build settings
 markdown: kramdown
@@ -12,11 +12,7 @@ paginate: 3
 
 # Links
 links:
-  - title: "abt"
+  - title: "about"
     url: /about
-  - title: "twt"
-    url: http://twitter.com/alixedi
   - title: "git"
-    url: http://github.com/alixedi
-  - title: "rss"
-    url: /feed.xml
+    url: http://github.com/mdnnawaz
