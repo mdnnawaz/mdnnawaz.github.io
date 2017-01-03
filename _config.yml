@@ -16,3 +16,5 @@ links:
     url: /about
   - title: "git"
     url: http://github.com/mdnnawaz
+  - title: "rss"
+    url: /feed.xml
